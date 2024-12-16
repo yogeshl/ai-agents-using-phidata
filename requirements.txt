@@ -1,0 +1,8 @@
+phidata
+openai
+yfinance
+ipywidgets
+duckduckgo-search
+sqlalchemy
+fastapi
+uvicorn
